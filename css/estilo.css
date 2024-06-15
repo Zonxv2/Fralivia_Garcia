@@ -445,6 +445,13 @@ textarea {
   .form-login a:hover {
     text-decoration: underline;
   }
+  .form-login .button {
+    width: 100%;
+    height: 30px;
+    background: #ffffff;
+    border-radius: #000;
+    margin-bottom: 10px;
+  }
 }
 /*Carrusel*/
 .slider-frame {
