@@ -1,0 +1,10 @@
+$Beige: rgb(245, 245, 220);
+$Cafe: rgb(181, 41, 41);
+@mixin bordes{
+    text-decoration: none;
+    border-color: #000;
+    border-left: 2px solid #000;
+    border-bottom: 2px solid #000;
+    border-top: 2px solid #000;
+    border-right: 2px solid #000;
+}
